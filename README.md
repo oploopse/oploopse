@@ -48,12 +48,9 @@ I'm a Computer Science student interested in **AI Engineering**, **LLM-powered a
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oploopse&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)
+### GitHub Activity
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oploopse&theme=github-dark&hide_border=true)
 </div>
 
 ---
-
-<div align="center">
-  <sub>Learning, building, and improving — one project at a time.</sub>
-</div>
