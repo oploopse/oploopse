@@ -44,13 +44,5 @@ I'm a Computer Science student interested in **AI Engineering**, **LLM-powered a
 | **SocraticExam** | AI-powered oral examination system with document-grounded questions, real-time voice conversations, adaptive follow-ups, and assessment based on Bloom's taxonomy. | [Code](https://github.com/oploopse/SocraticExam) · [Demo](https://hackathon-huce.vercel.app/) |
 | **Pickle-Ball / web_game** | A single game project maintained across two repositories: a 2D pickleball game built with Godot and GDScript, alongside a Node.js / Express / EJS web component. | [Game repository](https://github.com/oploopse/Pickle-Ball) · [Web repository](https://github.com/oploopse/web_game) |
 
-### GitHub activity
-
-<div align="center">
-
-### GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oploopse&theme=github-dark&hide_border=true)
-</div>
 
 ---
